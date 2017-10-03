@@ -27,11 +27,11 @@
         "user": null
     },
     "images": {
-        "background": "https://i.imgur.com/webgrgO.png",
+        "background": "https://i.imgur.com/webgrgO.png"
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": "https://venanciof.github.io/song-fire/imagens/usuarios/song-fire_unapologetic.gif",
+        "host": null,
         "cohost": null,
         "manager": null,
         "bouncer": null,
