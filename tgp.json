@@ -2,7 +2,7 @@
     "room": "TGP!",
     "author": "Unapologetic-",
     "icon": null,
-    "css": "https://github.com/unapo/tgp/blob/master/tgp.json",
+    "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
