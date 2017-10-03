@@ -28,16 +28,7 @@
     },
     "images": {
         "background": "https://i.imgur.com/webgrgO.png"
-        "playback": null,
-        "admin": null,
-        "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
-        "subscriber": null,
-        "silversubscriber": null
+        
     },
     "emotes": {
     	"emote_name": null
